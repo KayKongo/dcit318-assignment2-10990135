@@ -27,3 +27,4 @@ C:\Users\kongo\OneDrive\Desktop\dcit318-assignment2-10990135\Interface\obj\Debug
 C:\Users\kongo\OneDrive\Desktop\dcit318-assignment2-10990135\Interface\obj\Debug\net8.0\Interface.pdb
 C:\Users\kongo\OneDrive\Desktop\dcit318-assignment2-10990135\Interface\obj\Debug\net8.0\Interface.genruntimeconfig.cache
 C:\Users\kongo\OneDrive\Desktop\dcit318-assignment2-10990135\Interface\obj\Debug\net8.0\ref\Interface.dll
+C:\Users\kongo\OneDrive\Desktop\dcit318-assignment2-10990135\Interface\obj\Debug\net8.0\Interface.sourcelink.json
