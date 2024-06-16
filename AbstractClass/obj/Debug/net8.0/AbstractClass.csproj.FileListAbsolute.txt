@@ -27,3 +27,4 @@ C:\Users\kongo\OneDrive\Desktop\dcit318-assignment2-10990135\AbstractClass\obj\D
 C:\Users\kongo\OneDrive\Desktop\dcit318-assignment2-10990135\AbstractClass\obj\Debug\net8.0\AbstractClass.pdb
 C:\Users\kongo\OneDrive\Desktop\dcit318-assignment2-10990135\AbstractClass\obj\Debug\net8.0\AbstractClass.genruntimeconfig.cache
 C:\Users\kongo\OneDrive\Desktop\dcit318-assignment2-10990135\AbstractClass\obj\Debug\net8.0\ref\AbstractClass.dll
+C:\Users\kongo\OneDrive\Desktop\dcit318-assignment2-10990135\AbstractClass\obj\Debug\net8.0\AbstractClass.sourcelink.json
