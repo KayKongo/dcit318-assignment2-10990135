@@ -1,0 +1,14 @@
+C:\Users\kongo\OneDrive\Desktop\dcit318-assignment2-10990135\Inheritance\bin\Debug\net8.0\Inheritance.exe
+C:\Users\kongo\OneDrive\Desktop\dcit318-assignment2-10990135\Inheritance\bin\Debug\net8.0\Inheritance.deps.json
+C:\Users\kongo\OneDrive\Desktop\dcit318-assignment2-10990135\Inheritance\bin\Debug\net8.0\Inheritance.runtimeconfig.json
+C:\Users\kongo\OneDrive\Desktop\dcit318-assignment2-10990135\Inheritance\bin\Debug\net8.0\Inheritance.dll
+C:\Users\kongo\OneDrive\Desktop\dcit318-assignment2-10990135\Inheritance\bin\Debug\net8.0\Inheritance.pdb
+C:\Users\kongo\OneDrive\Desktop\dcit318-assignment2-10990135\Inheritance\obj\Debug\net8.0\Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kongo\OneDrive\Desktop\dcit318-assignment2-10990135\Inheritance\obj\Debug\net8.0\Inheritance.AssemblyInfoInputs.cache
+C:\Users\kongo\OneDrive\Desktop\dcit318-assignment2-10990135\Inheritance\obj\Debug\net8.0\Inheritance.AssemblyInfo.cs
+C:\Users\kongo\OneDrive\Desktop\dcit318-assignment2-10990135\Inheritance\obj\Debug\net8.0\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\kongo\OneDrive\Desktop\dcit318-assignment2-10990135\Inheritance\obj\Debug\net8.0\Inheritance.dll
+C:\Users\kongo\OneDrive\Desktop\dcit318-assignment2-10990135\Inheritance\obj\Debug\net8.0\refint\Inheritance.dll
+C:\Users\kongo\OneDrive\Desktop\dcit318-assignment2-10990135\Inheritance\obj\Debug\net8.0\Inheritance.pdb
+C:\Users\kongo\OneDrive\Desktop\dcit318-assignment2-10990135\Inheritance\obj\Debug\net8.0\Inheritance.genruntimeconfig.cache
+C:\Users\kongo\OneDrive\Desktop\dcit318-assignment2-10990135\Inheritance\obj\Debug\net8.0\ref\Inheritance.dll
